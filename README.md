@@ -1,35 +1,36 @@
 # Beat Box
 
-##Installation and Running
+## Installation and Running
 
-###Prerequisites
+### Prerequisites
 1. Nodejs
 
-###To install
+### To install
 1. Clone this repo
 
-###To run Websocket server:
+### To run Websocket server:
 1. Navigate to socket-io-server
 2. Run `npm install` (just the first time to install dependencies)
 3. Run `node app.js`;
 
-###To run Client
+### To run Client
 1. Navigate to socket-io-client
 2. Run `npm install` (just the first time to install dependencies)
 3. Run `npm start`
 4. Navigate to `http://<ip of server running client>:3031`
 
-###To run arduino code
+### To run arduino code
 1. Update wifi ssid
 2. Update wifi password
 3. Update websocket server ip address
 
-###Links
+### Links
+demo: https://youtu.be/MTehC_lPfV4
 tinkercad box: https://www.tinkercad.com/things/3gwgQuOHOxM-music-box-enclosure
 tonejs: https://tonejs.github.io/
 tonejs instruments: https://github.com/nbrosowsky/tonejs-instruments
 
-###Parts
+### Parts
 I had most of these lying around, but below are equivalents
 
 ESP8266 - 12E: https://www.amazon.com/KeeYees-Internet-Development-Wireless-Compatible/dp/B07HF44GBT/ref=sr_1_1?dchild=1&keywords=8266+12e&qid=1611602459&sr=8-1
