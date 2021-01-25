@@ -19,6 +19,11 @@
 3. Run `npm start`
 4. Navigate to `http://<ip of server running client>:3031`
 
+###To run arduino code
+1. Update wifi ssid
+2. Update wifi password
+3. Update websocket server ip address
+
 ###Links
 tinkercad box: https://www.tinkercad.com/things/3gwgQuOHOxM-music-box-enclosure
 tonejs: https://tonejs.github.io/
